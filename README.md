@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @yeong0jae
+- 👋 Hi, I’m @kyj91032.
 - 👀 I’m interested in python, c, algorithm, web development.
-- 🌱 I’m currently learning algorithm.
-- 💞️ I’m looking to collaborate on codeforce.
+- 🌱 I’m currently ...
+- 💞️ I’m looking to ...
 - 📫 How to reach me ... 
 
 <!---
