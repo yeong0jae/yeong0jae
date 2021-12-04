@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yeong0jae
-- 👀 I’m interested in everyting.
+- 👀 I’m interested in python, c, algorithm, web development.
 - 🌱 I’m currently learning algorithm.
 - 💞️ I’m looking to collaborate on codeforce.
 - 📫 How to reach me ... 
