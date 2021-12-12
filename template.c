@@ -31,33 +31,15 @@ int main(void) {
 #include <stdio.h>
 
 int main(void) {
-
-	int a, b, i, j, sum = 0, m, cnt = 0;
 	
-	scanf("%d", &a);
-	scanf("%d", &b);
+	int r;
+	double p = 3.1415926535;
 	
-	for(i = a; i <= b; i++) {
-		for(j = 1; j < i; j++) {
-			if(i % j == 0)
-				break;
-		}
-		if(j == i && cnt = 0) {
-			sum += i;
-			m = i;
-			cnt = 1;
-		}
-		if(j == i && cnt = 1) {
-			sum += i;
-			if(m > i)
-				m = i;
-		}
-	}
+	scanf("%d", &r);
 	
-	printf("%d\n", sum);
-	printf("%d", m);
-
-
-
+	printf("%.6lf\n", p*r*r);
+	printf("%.6lf", 2*r*r); //왜 위에값ㄹ이?
+	
+	
 	return 0;
 }
