@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <details>
-<summary> 앱 개발 중 . .</summary>
+<summary> 앱 개발 중 . . 👀</summary>
 
 ## Frontend
 
