@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <br>
-<h3 align="left">Tech Stack</h3>
+<h3 align="left">🛠 Tech Stack</h3>
 
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=fff)
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=fff)
