@@ -2,7 +2,6 @@
 안녕하세요, 백엔드 개발자 김영재입니다.
 [Blog](https://yeong0jae.tistory.com)
 
-<br>
 
 ### Project
 
@@ -11,12 +10,11 @@
 - 2024.03 ~ [코인끼리](https://github.com/tipi-tapi/ai-paint-today-BE)
   - 암호화폐 시세를 조회하고 정보를 공유하는 안드로이드 앱 서버 개발
 
-<br>
 
-<h3 align="left">🛠 Tech Stack</h3>
+### Tech Stack
 
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=fff)
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=fff)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=fff)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
 
 <br>
