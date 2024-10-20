@@ -8,7 +8,7 @@
 
 **✨ Skill**
 
-> Java, Kotlin, SpringBoot, mysql, ec2, rds, redis, docker
+> Java, Kotlin, SpringBoot, mysql, aws, redis, docker
 > 
 > Studying : Object Oriented Programming(OOP), Test & Architecture
 > 
