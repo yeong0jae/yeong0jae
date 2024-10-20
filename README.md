@@ -1,4 +1,4 @@
-### 소개
+**🙋‍♂️ Introduce**
 
 > 안녕하세요, 백엔드 개발자 김영재입니다. 👋
 > 
@@ -6,7 +6,15 @@
 > 
 > ✉️ e-mail : sees77770@gmail.com
 
-### 프로젝트
+**✨ Skill**
+
+> Java, Kotlin, SpringBoot, mysql, ec2, rds, redis, docker
+> 
+> Studying : Object Oriented Programming(OOP), Test & Architecture
+> 
+> Algorithm : [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kyj91032)](https://solved.ac/kyj91032)
+
+**🧑‍🤝‍🧑 Project**
 
 > 인하카풀 : 인하대 & 인하공전 학생들을 위한 카풀 앱 서버 개발 🚙
 > 
@@ -23,14 +31,4 @@
 >
 > 개발 위키 : [Notion](https://east-layer-215.notion.site/abbf68d26718466897f8bdd778681d28?v=cd1996721c304161a7b6b86cf3d25202)
 > 
-
-### Tech Stack
-
-![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=fff)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=fff)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
-
-<br>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyj91032)](https://solved.ac/kyj91032/)
 
