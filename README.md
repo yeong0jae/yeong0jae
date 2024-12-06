@@ -8,9 +8,7 @@
 
 **✨ Skill**
 
-> Java, Kotlin, SpringBoot, mysql, aws, redis, docker
-> 
-> Studying : Object Oriented Programming(OOP), Test & Architecture
+> Java, Kotlin, Spring Boot, mysql, aws, redis, docker
 > 
 > Algorithm : [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kyj91032)](https://solved.ac/kyj91032)
 
