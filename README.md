@@ -20,7 +20,6 @@
 >
 > 개발 위키 : [Notion](https://abalone-shake-786.notion.site/11a34c6106cb808b871cd7e3287a2273?v=11a34c6106cb813fa746000cfe688746&pvs=74)
 >
-> <img width="380" alt="스크린샷 2024-10-20 오전 11 03 38" src="https://github.com/user-attachments/assets/6ca944f6-aa07-4fbb-ab23-a5736b2511ae"> 
 <br>
 
 > 코인끼리 : 코인이 처음이면 끼리끼리, 안드로이드 앱 서버 개발 🐘
